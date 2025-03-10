@@ -17,11 +17,7 @@
   </dependencies>
   <distributionManagement>
     <repository>
-<<<<<<< HEAD
-        <id>my-repo</id>
-=======
         <id>nexus</id>
->>>>>>> 971d8fbf8336e19fe03a793922c3cc11814eefcd
         <url>http://localhost:8081/repository/mavenRepo/</url>
     </repository>
 </distributionManagement>
