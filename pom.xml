@@ -17,10 +17,8 @@
   </dependencies>
   <distributionManagement>
     <repository>
-        <id>my-repo</id>
+        <id>nexus</id>
         <url>http://localhost:8081/repository/mavenRepo/</url>
-	<username>admin</username>
-	<password>admin</password>
     </repository>
 </distributionManagement>
   <build>
