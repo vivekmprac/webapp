@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('checkout'){
             steps {
-                echo "hi vivek"
+                echo "hi vivek welcome to jenkins"
                 git url:"https://github.com/vivekmprac/webapp.git", branch: "master"      
             }
         }
